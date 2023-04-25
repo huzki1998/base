@@ -1,9 +1,12 @@
+compositeItem.xlsx
+compositeItemSubType.xlsx
+item.xlsx
+FootPrintBase.xlsx
 skillBase.xlsx
 skillBuff.xlsx
 skillLevel.xlsx
-astrolabeBase.xlsx
-astrolabeDecompose.xlsx
-astrolabeSlots.xlsx
-item.xlsx
-currencyCost.xlsx
+FootPrintUpgradeLevel.xlsx
+itemConsumable.xlsx
+decompose.xlsx
+compositeItemType.xlsx
 
