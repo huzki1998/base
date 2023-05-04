@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Copy Files</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        input[type=text], textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+            background-color: #f2f2f2;
+        }
+        input[type=submit] {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+        input[type=submit]:hover {
+            background-color: #444;
+        }
+        p.message {
+            background-color: #d4edda;
+            color: #155724;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Copy Files</h1>
+    <form method="post">
+        <p>Source Directory: <input type="text" name="source_dir" required></p>
+        <p>Destination Directory: <input type="text" name="des_dir" required></p>
+        <p>File List: <textarea name="file_list" rows="5" required></textarea></p>
+        <input type="submit" value="Copy">
+    </form>
+    {% if message %}
+        <p class="message">{{ message }}</p>
+    {% endif %}
+</body>
+</html>
