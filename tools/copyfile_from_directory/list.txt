@@ -1,12 +1,6 @@
-compositeItem.xlsx
-compositeItemSubType.xlsx
+equipQualityShow.xlsx
+EquipSlotLimit.xlsx
+compositeAstroType.xlsx
+compositeQualityEquip.xlsx
 item.xlsx
-FootPrintBase.xlsx
-skillBase.xlsx
-skillBuff.xlsx
-skillLevel.xlsx
-FootPrintUpgradeLevel.xlsx
-itemConsumable.xlsx
-decompose.xlsx
-compositeItemType.xlsx
-
+equipQualityMod.xlsx

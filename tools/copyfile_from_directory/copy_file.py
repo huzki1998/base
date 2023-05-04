@@ -16,7 +16,7 @@
 import os
 import shutil
 
-location_path="D:\\tianshi\\国内release\\国内release策划端\\tables"
+location_path="D:\\tianshi\\domestic_release\\domestic_release\\tables"
 des_dir="C:\\Users\\huzhk\\Desktop\\copy_file"
 
 # Check if the target directory exists. If not, create it.
