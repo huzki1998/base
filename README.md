@@ -31,13 +31,6 @@ The project aims to centralize various game design tools and methodologies, maki
 - Well-documented code snippets for quick implementation.
 - Continuous updates and additions to expand the repository.
 
-## Examples
-
-Check out the following examples to get an idea of the tools and methods available in the repository:
-
-- [Example 1](link_to_example_1): Description of example 1.
-- [Example 2](link_to_example_2): Description of example 2.
-- [Example 3](link_to_example_3): Description of example 3.
 
 ## Contributing
 
@@ -63,4 +56,4 @@ We would like to express our gratitude to the following individuals and organiza
 
 ## Contact
 
-For any inquiries or questions, please contact us at [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or questions, please contact us at [47361919@qq.com](mailto:your_email@example.com).
