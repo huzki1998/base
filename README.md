@@ -1,7 +1,7 @@
 
 # Game Design Tools and Methods Repository
 
-![Project Logo](link_to_your_logo)
+![Project Logo](![image](https://github.com/huzki1998/base/assets/121650227/9b9643f5-b730-48e6-9d87-3dbe5b3d55c2))
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
