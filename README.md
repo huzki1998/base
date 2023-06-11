@@ -56,4 +56,4 @@ We would like to express our gratitude to the following individuals and organiza
 
 ## Contact
 
-For any inquiries or questions, please contact us at [47361919@qq.com](mailto:your_email@example.com).
+For any inquiries or questions, please contact us at [347361919@qq.com](mailto:your_email@example.com).
